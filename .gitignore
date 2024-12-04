@@ -2,3 +2,6 @@
 src/input/
 
 .DS_Store
+
+src/d2p2
+src/d2p2.py

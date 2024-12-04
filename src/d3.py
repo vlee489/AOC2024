@@ -1,5 +1,4 @@
 import re
-import json
 
 total_1 = 0
 total_2 = 0
